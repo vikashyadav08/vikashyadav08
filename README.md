@@ -20,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vikash-kumar-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash-kumar-yadav" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/yadavvikash.yadav.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yadavvikash.yadav.9" height="30" width="40" /></a>
 <a href="https://instagram.com/vikash_yadav_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikash_yadav_09" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vikashkyadav08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikashkyadav08" height="30" width="40" /></a>
 </p>
