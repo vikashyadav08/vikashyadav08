@@ -2,9 +2,9 @@
 <h3 align="center"><font face="Arial"><a href="https://linkedin.com/in/vikash-kumar-yadav-354449152" target="_blank" rel="noreferrer">Vikash</a> is a passionate Backend Developer from India.</font></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashyadav08&label=Profile%20views&color=0e75b6&style=flat" alt="vikashyadav08" /> </p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashyadav08&show_icons=true&locale=en&layout=compact" alt="vikashyadav08" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashyadav08&show_icons=true&locale=en&layout=compact" alt="vikashyadav  08" /></p>
 
-- 🔭 I’m currently working on **BACKEND DEVELOPMENT**
+- 🔭 I’m currently working on **FULL STACK DEVELOPMENT**
 
 - 🌱 I’m currently learning **JAVA SCRIPT AND REACT JS**
 
